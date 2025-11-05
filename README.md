@@ -1,5 +1,9 @@
 # Lintsinghua  
-*Agent开发工程师 | 软件工程师 | AI驱动代码审计与情感分析*
+
+个人简述：***Agent开发工程师 | 软件工程师 | 人工智能学术研究| 创业***
+
+联系方式：*lintsinghua@qq.com*，如需微信请联系email
+
 
 <div align="center">
 
@@ -47,12 +51,6 @@
 ### XCodeReviewer
 **LLM驱动的智能代码审计工具**  
 AI驱动工具，支持10+种语言的漏洞检测、性能优化和代码质量提升。与GitHub/GitLab CI/CD集成。
-
-<div align="center">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lintsinghua&repo=XCodeReviewer&theme=radical)](https://github.com/lintsinghua/XCodeReviewer)
-
-</div>
 
 ![Diagram](https://raw.githubusercontent.com/lintsinghua/XCodeReviewer/main/public/diagram.svg)
 
