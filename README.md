@@ -52,6 +52,8 @@
 **LLM驱动的智能代码审计工具**  
 AI驱动工具，支持10+种语言的漏洞检测、性能优化和代码质量提升。与GitHub/GitLab CI/CD集成。
 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lintsinghua&repo=XCodeReviewer&theme=radical)](https://github.com/lintsinghua/XCodeReviewer)
+
 ![Diagram](https://raw.githubusercontent.com/lintsinghua/XCodeReviewer/main/public/diagram.svg)
 
 ---
