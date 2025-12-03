@@ -1,69 +1,68 @@
-# Lintsinghua  
-
-个人简述：***Agent开发工程师 | 软件工程师 | 人工智能学术研究***
-
-联系方式：*lintsinghua@qq.com*，如需微信请联系email
-
-
 <div align="center">
+<pre>
+██╗     ██╗███╗   ██╗████████╗███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗██╗   ██╗ █████╗ 
+██║     ██║████╗  ██║╚══██╔══╝██╔════╝██║████╗  ██║██╔════╝ ██║  ██║██║   ██║██╔══██╗
+██║     ██║██╔██╗ ██║   ██║   ███████╗██║██╔██╗ ██║██║  ███╗███████║██║   ██║███████║
+██║     ██║██║╚██╗██║   ██║   ╚════██║██║██║╚██╗██║██║   ██║██╔══██║██║   ██║██╔══██║
+███████╗██║██║ ╚████║   ██║   ███████║██║██║ ╚████║╚██████╔╝██║  ██║╚██████╔╝██║  ██║
+╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+</pre>
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=666ghj&repo=BettaFish&theme=radical)](https://github.com/666ghj/BettaFish)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lintsinghua&repo=XCodeReviewer&theme=radical)](https://github.com/lintsinghua/XCodeReviewer)
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintsinghua&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintsinghua&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-</div>
-
-<div align="center">
-
-![Languages](https://skillicons.dev/icons?i=python,typescript,docker)
-![Tools](https://skillicons.dev/icons?i=git,github,ai)
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=%3E+INITING+AGENT+SYSTEM...;%3E+ROLE:+Agent+Architect+%7C+AI+Researcher;%3E+LOADING+MODULE:+Multi-Agent+Collaboration;%3E+TARGET:+Future+of+Embodied+AI" alt="Typing SVG" />
+</a>
 </div>
 
 ---
 
-## 🚀 参与项目
-
-### BettaFish (核心开发者)
-**多代理情感分析引擎**  
-从零构建的多代理系统，用于实时监测30+全球媒体平台的公众舆论。通过协作AI代理打破回音室效应。
-
 <div align="center">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=666ghj&repo=BettaFish&theme=radical)](https://github.com/666ghj/BettaFish)
-
-</div>
-
-<div align="center">
-
-![Architecture](https://raw.githubusercontent.com/666ghj/BettaFish/main/static/image/system_schematic.png)
-![Framework](https://raw.githubusercontent.com/666ghj/BettaFish/main/static/image/framework.png)
-
+  <code>// SYSTEM_DIAGNOSTICS_HUD //</code>
+  <br><br>
+  <img src="https://github.com/lintsinghua/lintsinghua/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
-### XCodeReviewer（唯一负责人）
-**LLM驱动的智能代码审计工具**  
-AI驱动工具，支持10+种语言的漏洞检测、性能优化和代码质量提升。与GitHub/GitLab CI/CD集成。
 
-<div align="center">
+## 📼 PROGRAM_MODULES
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=lintsinghua&repo=XCodeReviewer&theme=radical)](https://github.com/lintsinghua/XCodeReviewer)
-
-</div>
-
-![Diagram](https://raw.githubusercontent.com/lintsinghua/XCodeReviewer/main/public/diagram.svg)
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3>💾 BettaFish</h3>
+      <code>> STATUS: OPERATIONAL</code><br>
+      <code>> TYPE: MULTI-AGENT SWARM</code>
+      <br><br>
+      打破回音室效应的分布式舆论监测引擎。
+      <br><br>
+      <a href="https://github.com/666ghj/BettaFish">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=666ghj&repo=BettaFish&theme=radical&bg_color=0d1117&title_color=00f2ff&icon_color=ff00cc&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💾 XCodeReviewer</h3>
+      <code>> STATUS: MAINTAINING</code><br>
+      <code>> TYPE: AI SECURITY SENTINEL</code>
+      <br><br>
+      LLM 驱动的自动化代码审计终端。
+      <br><br>
+      <a href="https://github.com/lintsinghua/XCodeReviewer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lintsinghua&repo=XCodeReviewer&theme=radical&bg_color=0d1117&title_color=39ff14&icon_color=00f2ff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
+  <code>// DATA_STREAM_ACTIVITY_LOG //</code>
+  <br><br>
+  <img src="https://github.com/lintsinghua/lintsinghua/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+</div>
 
-[![Email](https://img.shields.io/badge/Email-lintshinghua%40qq.com-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lintshinghua@qq.com)
-
+<div align="center">
+  <br>
+  <a href="mailto:lintshinghua@qq.com">
+    <img src="https://img.shields.io/badge/COMM_LINK-ESTABLISHED-00f2ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black">
+  </a>
 </div>
