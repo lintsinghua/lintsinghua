@@ -19,10 +19,10 @@
 
 从零构建的多代理系统，用于实时监测30+全球媒体平台的公众舆论。通过协作AI代理打破回音室效应。
 
-### XCodeReviewer（唯一负责人）
+### DeepAudit（唯一负责人）
 **LLM驱动的智能代码审计工具**
-> [GitHub 项目地址](https://github.com/lintsinghua/XCodeReviewer)
+> [GitHub 项目地址](https://github.com/lintsinghua/DeepAudit)
 >
-> ![GitHub stars](https://img.shields.io/github/stars/lintsinghua/XCodeReviewer?style=social) ![GitHub forks](https://img.shields.io/github/forks/lintsinghua/XCodeReviewer?style=social)
+> ![GitHub stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
 
 AI驱动工具，支持10+种语言的漏洞检测、性能优化和代码质量提升。与GitHub/GitLab CI/CD集成。
