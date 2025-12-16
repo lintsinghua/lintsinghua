@@ -11,14 +11,6 @@
 
 ## 🚀 参与项目
 
-### 微舆-BettaFish (核心开发者)
-**多代理情感分析引擎**
-> [GitHub 项目地址](https://github.com/666ghj/BettaFish)
->
-> ![GitHub stars](https://img.shields.io/github/stars/666ghj/BettaFish?style=social) ![GitHub forks](https://img.shields.io/github/forks/666ghj/BettaFish?style=social)
-
-从零构建的多代理系统，用于实时监测30+全球媒体平台的公众舆论。通过协作AI代理打破回音室效应。
-
 ### DeepAudit（唯一负责人）
 **LLM驱动的智能代码审计工具**
 > [GitHub 项目地址](https://github.com/lintsinghua/DeepAudit)
