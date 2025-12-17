@@ -11,10 +11,10 @@
 
 ## 🚀 参与项目
 
-### DeepAudit（唯一负责人）
-**LLM驱动的智能代码审计工具**
+### DeepAudit
+**国内首个开源代码漏洞挖掘多智能体系统**
 > [GitHub 项目地址](https://github.com/lintsinghua/DeepAudit)
 >
 > ![GitHub stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
 
-AI驱动工具，支持10+种语言的漏洞检测、性能优化和代码质量提升。与GitHub/GitLab CI/CD集成。
+人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
