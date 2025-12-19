@@ -1,8 +1,8 @@
 # Lintsinghua
 
-个人简述：**Agent开发 | 软件工程 | 人工智能 ｜ 团队负责人**
+个人简述：**团队负责人 ｜ Agent开发 | 软件工程 | 人工智能**
 
-联系方式：lintsinghua@qq.com，如需微信请联系email
+联系方式：lintsinghua@qq.com，合作需求请联系email
 
 **主要技术栈**：
 > Python、Pytorch、LangChain/Dify/Coze、LlamaIndex、Milvus、Prompt Engineering、Multi-Agent、RAG、Docker、Kubernetes(K8s)、FastAPI
