@@ -1,6 +1,6 @@
 # Lintsinghua
 
-个人简述：**团队负责人 ｜ Agent开发 | 软件工程 | 人工智能**
+个人简述：**团队负责人 ｜ Agent开发 | 软件工程 | 人工智能 ｜ 网络安全 ｜舆情分析**
 
 联系方式：lintsinghua@qq.com，合作需求请联系email
 
