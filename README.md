@@ -1,6 +1,6 @@
 # Lintsinghua
 
-个人简述：**Agent开发工程师 | 软件工程师 | 人工智能学术研究**
+个人简述：**Agent开发 | 软件工程 | 人工智能 ｜ 团队负责人**
 
 联系方式：lintsinghua@qq.com，如需微信请联系email
 
