@@ -4,9 +4,6 @@
 
 Contact: lintsinghua@qq.com (Please contact via email for collaboration requests)
 
-**Primary Tech Stack**:
-> Python, Pytorch, LangChain/Dify/Coze, LlamaIndex, Milvus, Prompt Engineering, Multi-Agent, RAG, Docker, Kubernetes (K8s), FastAPI
-
 ---
 
 ## 🚀 Project Case
