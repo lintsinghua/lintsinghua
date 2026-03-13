@@ -1,17 +1,17 @@
 # lintsinghua
 
-**团队负责人 | 智能体开发 | 人工智能平台开发 | 网络安全 | 代码审计 | 舆情分析**
+**Team Lead | AI Agent Development | AI Platform Development | Cybersecurity | Code Audit | Public Opinion Analysis**
 
-联系方式：lintsinghua@qq.com（平台定制、代码审计服务、技术咨询、合作洽谈等请通过邮箱联系）
+Contact: lintsinghua@qq.com (For platform customization, code audit services, technical consulting, cooperation negotiation and other matters, please contact via email)
 
 ---
 
-## 🚀 项目案例
+## 🚀 Project Cases
 
 ### DeepAudit
-**国内首款开源代码漏洞挖掘多智能体系统**
-> [GitHub 项目地址](https://github.com/lintsinghua/DeepAudit)
+**China's first open-source multi-agent system for code vulnerability discovery**
+> [GitHub Repository](https://github.com/lintsinghua/DeepAudit)
 >
-> ![GitHub 星标数](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub 复刻数](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
+> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
 
-面向大众的人工智能黑客战队，让漏洞挖掘触手可及。作为国内首款开源代码漏洞挖掘多智能体系统，它具备面向新手的一键部署功能、自主协作审计能力，以及自动化沙箱漏洞验证（PoC）机制。支持Ollama私有化部署与审计报告一键生成，让安全技术普惠化，让代码审计更简单。
+An AI hacking team for the public, making vulnerability discovery accessible to everyone. As China's first open-source multi-agent system for code vulnerability discovery, it features one-click deployment for beginners, autonomous collaborative auditing capabilities, and an automated sandbox vulnerability verification (PoC) mechanism. It supports Ollama private deployment and one-click generation of audit reports, democratizing security technology and simplifying code auditing.
