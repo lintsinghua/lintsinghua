@@ -19,5 +19,7 @@ An AI hacking team for the public, making vulnerability discovery accessible to 
 ### Claude Code Book
 **A 420K-word deep architectural analysis of Claude Code and Agent Harness design**
 > [GitHub Repository](https://github.com/lintsinghua/claude-code-book)
+>
+> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/claude-code-book?style=social)
 
 A systematic book on decoding Agent Harness architecture through Claude Code, covering conversation loops, tool systems, permission pipelines, context compression, memory, hooks, sub-agent orchestration, MCP integration, skills, streaming architecture, Plan mode, and the practical path to building your own Agent Harness.
