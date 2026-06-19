@@ -1,6 +1,6 @@
 # lintsinghua
 
-**Team Lead | AI Agent Development | AI Platform Development | Cybersecurity | Code Audit | Public Opinion Analysis**
+**Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | Public Opinion Analysis**
 
 Contact: lintsinghua@qq.com (For platform customization, code audit services, technical consulting, cooperation negotiation and other matters, please contact via email)
 
