@@ -15,3 +15,9 @@ Contact: lintsinghua@qq.com (For platform customization, code audit services, te
 > ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
 
 An AI hacking team for the public, making vulnerability discovery accessible to everyone. As China's first open-source multi-agent system for code vulnerability discovery, it features one-click deployment for beginners, autonomous collaborative auditing capabilities, and an automated sandbox vulnerability verification (PoC) mechanism. It supports Ollama private deployment and one-click generation of audit reports, democratizing security technology and simplifying code auditing.
+
+### Claude Code Book
+**A 420K-word deep architectural analysis of Claude Code and Agent Harness design**
+> [GitHub Repository](https://github.com/lintsinghua/claude-code-book)
+
+A systematic book on decoding Agent Harness architecture through Claude Code, covering conversation loops, tool systems, permission pipelines, context compression, memory, hooks, sub-agent orchestration, MCP integration, skills, streaming architecture, Plan mode, and the practical path to building your own Agent Harness.
