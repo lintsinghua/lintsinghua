@@ -1,15 +1,15 @@
 # lintsinghua
 
-**Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | Public Opinion Analysis**
+**Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | World Model**
 
-Contact: lintsinghua@qq.com (For platform customization, code audit services, technical consulting, cooperation negotiation and other matters, please contact via email)
+Contact: lintsinghua@qq.com
 
 ---
 
 ## 🚀 Project Cases
 
 ### DeepAudit
-**China's first open-source multi-agent system for code vulnerability discovery**
+**Open-source multi-agent system for code vulnerability discovery**
 > [GitHub Repository](https://github.com/lintsinghua/DeepAudit)
 >
 > ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
