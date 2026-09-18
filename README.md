@@ -1,8 +1,8 @@
-# lintsinghua
+# Lin Wang
 
 **Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | World Model**
 
-Contact: lintsinghua@qq.com
+Contact: lintsinghua@bupt.edu.cn
 
 ---
 
