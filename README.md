@@ -2,7 +2,7 @@
 
 **Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | World Model**
 
-Contact: wl@noiz.ai
+Contact: lintsinghua@qq.com
 
 ---
 
