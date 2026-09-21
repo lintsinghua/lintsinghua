@@ -1,8 +1,11 @@
-# Lin Wang
+# Hi, I'm lintsinghua 👋
 
-**Team Lead | AI Agent Development | Algorithm Engineer | Cybersecurity | Code Audit | World Model**
+** Algorithm Engineer · World Model · AI Agent · Team Lead**
 
-Contact: lintsinghua@qq.com
+📍 Shenzhen, China
+📧 Email: lintsinghua@qq.com
+
+Open to technical consulting and collaboration.
 
 ---
 
