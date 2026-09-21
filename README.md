@@ -1,6 +1,6 @@
 # Hi, I'm lintsinghua 👋
 
-** Algorithm Engineer · World Model · AI Agent · Team Lead**
+**Algorithm Engineer · World Model · AI Agent · Team Lead**
 
 📍 Shenzhen, China
 📧 Email: lintsinghua@qq.com
