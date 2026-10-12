@@ -3,19 +3,26 @@
 **Algorithm Engineer · World Model · AI Agent · Team Lead**
 
 📍 Shenzhen, China
+
 📧 Email: lintsinghua@qq.com
 
 Open to technical consulting and collaboration.
 
 ---
 
-## 🚀 Project Cases
+AI algorithm engineer and open-source developer with 11k+ GitHub Stars across personal open-source projects, specializing in AI Agents, World Models, and Model Inference Acceleration.
+
+Original creator of DeepAudit, a multi-agent security auditing platform, and author of Claude Code Book, an in-depth exploration of Agent Harness architecture. Contributor to HelixWorld’s real-time audiovisual world model research and YuE2-Turbo’s inference acceleration for music generation, with hands-on experience spanning algorithm research, system optimization, and production deployment.
+
+---
+
+## Project Cases
 
 ### DeepAudit
 **Open-source multi-agent system for code vulnerability discovery**
 > [GitHub Repository](https://github.com/lintsinghua/DeepAudit)
 >
-> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/DeepAudit?style=social)
+> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social)
 
 An AI hacking team for the public, making vulnerability discovery accessible to everyone. As China's first open-source multi-agent system for code vulnerability discovery, it features one-click deployment for beginners, autonomous collaborative auditing capabilities, and an automated sandbox vulnerability verification (PoC) mechanism. It supports Ollama private deployment and one-click generation of audit reports, democratizing security technology and simplifying code auditing.
 
@@ -23,6 +30,6 @@ An AI hacking team for the public, making vulnerability discovery accessible to 
 **A 420K-word deep architectural analysis of Claude Code and Agent Harness design**
 > [GitHub Repository](https://github.com/lintsinghua/claude-code-book)
 >
-> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=social) ![GitHub Forks](https://img.shields.io/github/forks/lintsinghua/claude-code-book?style=social)
+> ![GitHub Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=social)
 
 A systematic book on decoding Agent Harness architecture through Claude Code, covering conversation loops, tool systems, permission pipelines, context compression, memory, hooks, sub-agent orchestration, MCP integration, skills, streaming architecture, Plan mode, and the practical path to building your own Agent Harness.
